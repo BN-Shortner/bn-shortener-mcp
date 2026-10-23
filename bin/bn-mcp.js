@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // BN Shortener MCP server over stdio, for MCP clients that only start local servers. It forwards every JSON-RPC
 // message to the hosted server (https://b1.lc/mcp) with your API key, so the tools are always the current ones.
-//   BN_API_KEY=bn_live_...  npx -y @broadnet/shortener-mcp
+//   BN_API_KEY=bn_live_...  npx -y @bn-shortner/shortener-mcp
 // Clients that support remote servers can connect to https://b1.lc/mcp directly (sign in with OAuth, no key).
 'use strict';
 const readline = require('node:readline');

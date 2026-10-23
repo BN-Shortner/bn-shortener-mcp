@@ -19,7 +19,7 @@ assistant may do; disconnect it any time in **Settings → Security → Connecte
   "mcpServers": {
     "bn-shortener": {
       "command": "npx",
-      "args": ["-y", "@broadnet/shortener-mcp"],
+      "args": ["-y", "@bn-shortner/shortener-mcp"],
       "env": { "BN_API_KEY": "bn_live_..." }
     }
   }

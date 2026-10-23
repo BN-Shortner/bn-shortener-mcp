@@ -1,5 +1,5 @@
 {
-  "name": "@broadnet/shortener-mcp",
+  "name": "@bn-shortner/shortener-mcp",
   "version": "1.0.0",
   "description": "BN Shortener (b1.lc) MCP server for AI assistants: short links, statistics, Launch Check, QR codes, bio pages",
   "license": "MIT",
